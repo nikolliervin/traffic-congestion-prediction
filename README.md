@@ -22,4 +22,24 @@ The primary objective of this project is to evaluate various algorithms in predi
       - **Sigmoid Kernel:** 
       - **RBF Kernel:** 
       - **Precomputed Kernel:** 
-      - **Custom Kernel:** 
+      - **Custom Kernel:**
+
+## Algorithms Used
+
+### Time Series Analysis:
+
+- Autoregressive Integrated Moving Average (ARIMA)
+- Gated Recurrent Unit (GRU)
+
+### Regression:
+
+- Linear Regression (LR)
+- Support Vector Regression (SVR) with various kernels.
+
+    - Linear Kernel
+    - Polynomial Kernel
+    - Sigmoid Kernel
+    - Radial Basis Function (RBF) Kernel
+    - Precomputed Kernel
+    - Custom Kernel
+

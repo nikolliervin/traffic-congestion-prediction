@@ -1,1 +1,3 @@
-The YOLOv8 model, used for detecting cars in images, was trained on a labeled car images dataset available at [this link](https://public.roboflow.com/object-detection/vehicles-openimages) using the CUDA platform.
+# Traffic Congestion Prediction
+
+This repository contains the implementation of traffic congestion prediction, focusing on assessing and comparing the effectiveness of different algorithms for long-term traffic congestion prediction.

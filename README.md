@@ -43,3 +43,7 @@ The primary objective of this project is to evaluate various algorithms in predi
     - Precomputed Kernel
     - Custom Kernel
 
+## Note
+
+The majority of labels in the output figures are in Albanian, as this was part of my master's dissertation project.
+
